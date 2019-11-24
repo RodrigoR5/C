@@ -14,7 +14,6 @@ insert int teste3 values (1,'aaaa')
 select * from teste3
 */
 
-//
 // estrutura de cabeçalho
 typedef struct Header {
     int memFree; // limpar memoria da pagina
