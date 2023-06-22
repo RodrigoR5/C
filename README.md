@@ -1,3 +1,3 @@
 # Projetos-ED1
 
-Repositório de trabalhos sobre estruturas de dados, 2º período na UFFS
+Trabalhos da matéria de estruturas de dados da UFFS
